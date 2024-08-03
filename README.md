@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=sudipkarmakar25&label=Profile%20views&color=0e75b6&style=flat" alt="sudipkarmakar25" /> 
 </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **ExpressJs & NodeJS**
 - 💬 I have a good grasp on **React JS**
 - 📫 How to reach me **sudipk166@gmail.com**
 
